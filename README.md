@@ -38,7 +38,6 @@ graph TD
 ### 2. **Хранение данных** (`db/`)
 - **`cassandra_uploader.py`** - Загрузка и выгрузка данных в/из Cassandra
 - Поддержка локального JSON хранения
-- Интеграция с Yandex Cloud Object Storage
 
 ### 3. **Обработка данных** (`utils/`)
 - **`dataframe_creator.py`** - Создание DataFrame 

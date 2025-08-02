@@ -16,7 +16,7 @@ graph TD
     H --> I["Data Cleaning"]
     I --> J["Feature Engineering"]
     
-    J --> K["TensorFlow Model<br/>price_prediction_model.ipynb"]
+    J --> K["TensorFlow Model<br/>price_prediction_model.ipynb/py"]
     K --> L["Training Pipeline"]
     L --> M["Model Validation"]
     M --> N["Price Predictions"]

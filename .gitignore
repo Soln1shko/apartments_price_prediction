@@ -1,0 +1,16 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# JSON and IPYNB files
+*.json
+*.ipynb
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Upload JSON to Cassandra
+upload_json_to_cassandra.py
